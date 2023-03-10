@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Package managers
+yarn-error.log
+npm-debug.log
+
+# Compiled files
+*.class
+*.war
+*.jar
+*.dll
+*.exe
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Cache files
+*.cache
+*.bak
+*.swp
